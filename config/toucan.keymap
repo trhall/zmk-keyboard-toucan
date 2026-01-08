@@ -23,7 +23,7 @@
         base {
             display-name = "BASE";
             bindings = <
-&kp TAB  &kp APOS  &kp COMMA  &kp PERIOD  &kp P  &kp Y  &kp F  &kp G  &kp C  &kp R  &kp L  &kp SLASH  &kp ESCAPE  &mt LEFT_CONTROL A  &mt LEFT_ALT O  &mt LEFT_GUI E  &mt LEFT_SHIFT U  &kp I  &kp D  &mt RIGHT_SHIFT H  &mt RIGHT_GUI T  &mt RIGHT_ALT N  &mt RIGHT_CONTROL S  &kp MINUS  &kp GRAVE  &kp SEMICOLON  &lt 3 Q  &lt 2 J  &lt 1 K  &kp X  &kp B  &lt 1 M  &lt 2 W  &lt 3 V  &kp Z  &kp BACKSLASH  &kp LGUI  &kp BACKSPACE  &kp DELETE  &kp RET  &kp SPACE  &kp RIGHT_GUI
+&kp TAB  &kp APOS  &kp COMMA  &kp PERIOD  &kp P  &kp Y  &kp F  &kp G  &kp C  &kp R  &kp L  &kp SLASH  &kp ESCAPE  &mt LEFT_CONTROL A  &mt LEFT_ALT O  &mt LEFT_GUI E  &mt LEFT_SHIFT U  &kp I  &kp D  &mt RIGHT_SHIFT H  &mt RIGHT_GUI T  &mt RIGHT_ALT N  &mt RIGHT_CONTROL S  &kp MINUS  &kp GRAVE  &kp SEMICOLON  &lt 3 Q  &lt 2 J  &lt 1 K  &kp X  &kp B  &lt 1 M  &lt 2 W  &lt 3 V  &kp Z  &kp BACKSLASH  &kp LGUI  &kp BACKSPACE  &lt 1 DELETE  &kp RET  &kp SPACE  &kp RIGHT_GUI
             >;
         };
 
